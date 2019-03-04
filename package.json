@@ -1,0 +1,27 @@
+{
+  "name": "cloud66-micro-services-tuto",
+  "version": "1.0.0",
+  "description": "Tutorial on microservices from cloud66",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belzeme/cloud66-micro-services-tuto.git"
+  },
+  "keywords": [
+    "tutorial",
+    "micro-sevices"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/belzeme/cloud66-micro-services-tuto/issues"
+  },
+  "homepage": "https://github.com/belzeme/cloud66-micro-services-tuto#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
